@@ -1,0 +1,10 @@
+{
+  "name": "integracion-grupo-nucleo",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@shopify/shopify-api": "^12.1.1",
+    "express": "^4.19.2",
+    "raw-body": "^2.5.2"
+  }
+}
